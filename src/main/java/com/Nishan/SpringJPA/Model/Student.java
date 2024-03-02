@@ -15,6 +15,7 @@ import java.util.List;
 @Component
 @Getter
 @Setter
+@NoArgsConstructor
 @Entity
 @Scope("Prototype")
 public class Student {
